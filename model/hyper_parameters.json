@@ -1,0 +1,13 @@
+{
+    "task":"rating",
+    "embed_size":16,
+    "n_epochs":3,
+    "lr":0.001,
+    "reg":null,
+    "batch_size":256,
+    "batch_sampling":false,
+    "num_neg":1,
+    "seed":42,
+    "lower_upper_bound":null,
+    "tf_sess_config":null
+}
